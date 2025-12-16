@@ -7,5 +7,6 @@
   <p>The fastest path from prompt to production with Gemini.</p>
 
   <a href="https://aistudio.google.com/apps">Start building</a>
-dev:  <a href="[https://aistudio.google.com/apps](https://web-architector.com/)">Web architector</a>
+  
+dev:  <a href="https://aistudio.google.com/apps">Web architector</a>
 </div>
