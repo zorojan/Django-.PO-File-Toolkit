@@ -8,5 +8,8 @@
 
   <a href="https://aistudio.google.com/apps">Start building</a>
   
-dev:  <a href="https://aistudio.google.com/apps">Web architector</a>
+dev:  
+
+
+<a href="https://web-architector.com/?dev">Web architector</a>
 </div>
